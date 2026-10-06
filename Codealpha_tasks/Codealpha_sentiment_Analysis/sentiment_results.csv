@@ -1,0 +1,31 @@
+review,sentiment,Predicted_Sentiment
+This product is excellent and very useful,positive,positive
+I really loved this product,positive,positive
+The quality is amazing,positive,positive
+Very happy with my purchase,positive,positive
+Excellent service and fast delivery,positive,positive
+This is a wonderful product,positive,positive
+I am satisfied with the product,positive,positive
+The product works perfectly,positive,positive
+Great quality and good price,positive,positive
+I would definitely recommend this,positive,positive
+The product is terrible,negative,negative
+I hate this product,negative,negative
+Very poor quality,negative,negative
+I am disappointed with my purchase,negative,negative
+Worst product I have ever bought,negative,negative
+The service was very bad,negative,negative
+The product stopped working,negative,negative
+Not worth the money,negative,negative
+I would not recommend this product,negative,negative
+Very unhappy with the purchase,negative,negative
+The product is okay,neutral,positive
+It is an average product,neutral,neutral
+The quality is neither good nor bad,neutral,negative
+It works as expected,neutral,neutral
+The product is acceptable,neutral,positive
+I received the product yesterday,neutral,neutral
+The price is normal,neutral,neutral
+It has some good and bad features,neutral,negative
+The product is available in two colors,neutral,neutral
+I have no strong opinion about it,neutral,positive

@@ -1,0 +1,31 @@
+review,sentiment
+"This product is excellent and very useful",positive
+"I really loved this product",positive
+"The quality is amazing",positive
+"Very happy with my purchase",positive
+"Excellent service and fast delivery",positive
+"This is a wonderful product",positive
+"I am satisfied with the product",positive
+"The product works perfectly",positive
+"Great quality and good price",positive
+"I would definitely recommend this",positive
+"The product is terrible",negative
+"I hate this product",negative
+"Very poor quality",negative
+"I am disappointed with my purchase",negative
+"Worst product I have ever bought",negative
+"The service was very bad",negative
+"The product stopped working",negative
+"Not worth the money",negative
+"I would not recommend this product",negative
+"Very unhappy with the purchase",negative
+"The product is okay",neutral
+"It is an average product",neutral
+"The quality is neither good nor bad",neutral
+"It works as expected",neutral
+"The product is acceptable",neutral
+"I received the product yesterday",neutral
+"The price is normal",neutral
+"It has some good and bad features",neutral
+"The product is available in two colors",neutral
+"I have no strong opinion about it",neutral
